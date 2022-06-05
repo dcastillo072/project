@@ -1,0 +1,21 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,percentFunded
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#activity+appeal+type+id+fts_internal,#activity+appeal+type+name,#date+start,#date+end,#date+year,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+CRI,1069,Refugee and Migrant Response Plan for Venezuela 2022 (RMRP),RREG22,111,Regional response plan,2022-01-01,2022-12-31,2022,9409183,,
+CRI,,Not specified,,,,,,2022,,200000,
+CRI,1021,Refugee and Migrant Response Plan for Venezuela 2021 (RMRP),RREG21,111,Regional response plan,2021-01-01,2021-12-31,2021,7782642,360001,5
+CRI,,Not specified,,,,,,2021,,15843645,
+CRI,944,Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP,RREG20,111,Regional response plan,2020-01-01,2020-12-31,2020,62220090,2309747,4
+CRI,,Not specified,,,,,,2020,,7829200,
+CRI,726,Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),OSAMR19,1614,Other,2019-01-01,2019-12-31,2019,,3206035,
+CRI,,Not specified,,,,,,2019,,1127622,
+CRI,,Not specified,,,,,,2018,,6630863,
+CRI,,Not specified,,,,,,2017,,12040792,
+CRI,,Not specified,,,,,,2016,,1802152,
+CRI,,Not specified,,,,,,2014,,3221340,
+CRI,,Not specified,,,,,,2013,,19474,
+CRI,,Not specified,,,,,,2011,,15075,
+CRI,,Not specified,,,,,,2010,,1276885,
+CRI,,Not specified,,,,,,2009,,413061,
+CRI,,Not specified,,,,,,2008,,1094210,
+CRI,,Not specified,,,,,,2007,,725940,
+CRI,,Not specified,,,,,,2006,,840000,

@@ -1,0 +1,3 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,covidFunding,covidPercentageOfFunding
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#activity+appeal+type+id+fts_internal,#activity+appeal+type+name,#date+start,#date+end,#date+year,#value+funding+required+usd,#value+funding+total+usd,#value+funding+covid+usd,#value+funding+covid+pct
+CRI,944,Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP,RREG20,111,Regional response plan,2020-01-01,2020-12-31,2020,62220090,2309747,1784750,77
